@@ -1,0 +1,5 @@
+D:\VSProject\ComNotHis.Web\ComNotHis.DAL\bin\Debug\ComNotHis.DAL.dll
+D:\VSProject\ComNotHis.Web\ComNotHis.DAL\bin\Debug\ComNotHis.DAL.pdb
+D:\VSProject\ComNotHis.Web\ComNotHis.DAL\obj\Debug\ComNotHis.DAL.csprojResolveAssemblyReference.cache
+D:\VSProject\ComNotHis.Web\ComNotHis.DAL\obj\Debug\ComNotHis.DAL.dll
+D:\VSProject\ComNotHis.Web\ComNotHis.DAL\obj\Debug\ComNotHis.DAL.pdb
